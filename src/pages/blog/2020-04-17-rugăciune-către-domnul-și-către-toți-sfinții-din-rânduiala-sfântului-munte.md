@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: RUGĂCIUNE CĂTRE DOMNUL ȘI CĂTRE TOȚI SFINȚII din rânduiala Sfântului Munte
+title: Rugăciune către Domnul Iisus și către toți sfinții din rânduiala
+  Sfântului Munte
 date: 2020-04-17T11:50:45.268Z
 description: Doamne, Domnul meu, preadulcele meu Iisuse Hristoase,  Dumnezeul
    îndurărilor, adâncul milei, Cel ce îți pare rău de răutățile oamenilor,
