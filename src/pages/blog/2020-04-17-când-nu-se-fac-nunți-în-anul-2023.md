@@ -9,7 +9,7 @@ featuredimage: /img/646x404.jpg
 tags:
   - cand-nu-se-fac-nunti
   - calendar-ortodox
-  - calendar-ortodox-2022
+  - calendar-ortodox-2023
 ---
 În **anul 2023** nu se fac nunți în următoarele zile:
 
