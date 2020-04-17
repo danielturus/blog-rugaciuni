@@ -11,7 +11,7 @@ tags:
   - calendar-ortodox
   - calendar-ortodox-2022
 ---
-În **anul 2022**nu se fac nunți în următoarele zile:
+În **anul 2022** nu se fac nunți în următoarele zile:
 
 * În toate zilele de post şi în posturile de peste an;
 * În ajunul şi în zilele Praznicelor Împărăteşti (1-2 februarie; 1-2 iunie; 11-13 iunie; 15 august; 13-14 septembrie);
