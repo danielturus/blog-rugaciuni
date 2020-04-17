@@ -1,23 +1,23 @@
 ---
 templateKey: blog-post
-title: Când nu se fac nunți în anul 2021
-date: 2020-04-17T10:53:14.786Z
-description: Află acum când nu se fac nunți în anul 2021, conform calendarului
-  creștin ortodox.
+title: Rugăciune la icoana Maicii Domnului „Grabnic Ascultătoare”
+date: 2020-04-17T10:59:55.120Z
+description: Stăpână Preabinecuvântată, pururea Fecioară, Născătoare de
+  Dumnezeu, ceea ce ai născut mai presus de cuvânt pe Dumnezeu-Cuvântul spre
+  mântuirea noastră şi darul Lui mai presus decât toţi din belşug l-ai primit,
+  ceea ce eşti o mare de daruri dumnezeieşti şi râu de minuni pururea curgător,
+  revărsând bunătatea ta tuturor celor ce cu credinţă aleargă la tine!
 featuredpost: true
-featuredimage: /img/646x404.jpg
+featuredimage: /img/erminie-la-reprezentarile-iconografice-ale-maicii-domnului-11324.jpg
 tags:
   - cand-nu-se-fac-nunti
   - calendar-ortodox
   - calendar-ortodox-2021
 ---
-În anul 2021 nu se fac nunți în următoarele zile:
+Căzând la icoana ta cea de minuni făcătoare, ne rugăm ţie, întru tot înduratei Maici a Stăpânului Celui iubitor de oameni: revarsă asupra noastră, Stăpână, prea bogate milele tale şi cererile noastre cele aduse ţie, celei Grabnic Ascultătoare, grăbeşte a le împlini, întocmindu-le fiecăruia spre folos, spre mângâiere şi mântuire.
 
-* În toate zilele de post şi în posturile de peste an;
-* În ajunul şi în zilele Praznicelor Împărăteşti (1-2 februarie; 9-10 iunie; 19 – 21 iunie; 15 august; 13-14 septembrie);
-* De luni după Lăsatul secului de carne pentru Postul Sfintelor Paşti până la Duminica Sfântului Apostol Toma (8 martie - 9 mai);
-* În Postul Sfinţilor Apostoli Petru şi Pavel (22 iunie - 28 iunie);
-* În Postul Adormirii Maicii Domnului (1-14 august);
-* De Tăierea Capului Sfântului Ioan Botezătorul (29 august);
-* În Postul Naşterii Domnului (15 noiembrie - 24 decembrie);
-* În perioada de la Crăciun până la Bobotează (25 decembrie - 6 ianuarie).
+Cercetează-ne, preabună, pre noi robii tăi, cu darul tău, şi dă celor neputincioşi tămăduire şi sănătate desăvârşită, linişte celor înviforaţi, celor robiţi slobozire, şi mângâie pe toţi cei ce pătimesc în felurite chipuri.
+
+Izbăveşte, Atotmilostivă Stăpână, toate oraşele, satele și ţara aceasta, de cutremur, de vătămare, de potop, de foc, de sabie şi de alte pedepse vremelnice şi veşnice, şi de toţi vrăjmaşii văzuţi şi nevăzuţi, întorcând mânia lui Dumnezeu prin mijlocirea ta cea de Maică.
+
+Şi slobozeşte pre robii tăi (numele) şi mă slobozeşte pre mine robul tău (numele) de toată boala sufletească, de năvălirea patimilor şi de căderea în păcat, ca fără împiedicare întru dreapta credinţă trăind veacul acesta, să ne învrednicim şi în cel viitor de bunătăţile cele veşnice, cu harul şi cu iubirea de oameni a Fiului şi Dumnezeului Tău, Căruia se cuvine toată slava, cinstea şi închinăciunea, dimpreună cu Cel fără de început al Său Părinte şi cu Prea Sfântul Duh, acum şi pururea şi în vecii vecilor. Amin.
